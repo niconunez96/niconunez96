@@ -4,7 +4,7 @@ Hi 👋 My name is Nicolas Nuñez
 Backend developer
 -----------------
 * 🌍  I'm based in *Mendoza, Argentina* ✉️  You can contact me at [nicolas110996@gmail.com](mailto:nicolas110996@gmail.com)
-* 🚀  I'm currently working on [Eventbrite](http://eventbrite.com)
+* 🚀  I'm currently working on [PedidosYa](https://www.pedidosya.com/)
 * 🧠  I'm learning *DDD, Kotlin and Scala*
 
 ### Skills
